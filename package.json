@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "rpcord": "^1.0.7"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "bun server.js"
+  }
+}
